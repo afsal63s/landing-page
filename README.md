@@ -1,4 +1,4 @@
-# Project Title (Replace with your project's name)
+# One Piece Pedia
 
 ## (Landing Project by The odin foundation)
 
